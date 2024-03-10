@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
 
+import "logger.dart";
+import "network.dart";
+
 void main() {
-  runApp(const MyApp());
+  getModels();
+  // logger.i("start app");
+  //
+  // runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {

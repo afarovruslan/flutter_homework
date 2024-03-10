@@ -1,16 +1,12 @@
 # news
 
-News
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Великий план:
+1. Icon and logger and error handler - done
+2. Theme
+3. Work with API
+3.5 Костяк приложения, AppBar
+4. Navigation
+5. Верстка главной страницы
+6. Верстка побочной страницы
+7. Описание проекта
+8. Интернационализация(extra)
